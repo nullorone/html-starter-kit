@@ -11,5 +11,4 @@ npm-debug.*
 build/**
 source/img/preview/
 source/pixel-glass/
-source/css/*.css
 Thumbs.db
