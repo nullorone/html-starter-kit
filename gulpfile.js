@@ -151,7 +151,7 @@ gulp.task("server", function() {
 });
 
 gulp.task(
-  "dev",
+  "start",
   gulp.series(
     "clear",
     "copy:fonts",
