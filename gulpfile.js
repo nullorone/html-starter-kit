@@ -178,4 +178,3 @@ gulp.task(
   )
 );
 
-gulp.task("start", gulp.series("build", "server"));
